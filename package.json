@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thiliban/tinyapp/issues"
   },
-  "homepage": "https://github.com/thiliban/tinyapp#readme"
+  "homepage": "https://github.com/thiliban/tinyapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
